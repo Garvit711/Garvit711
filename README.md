@@ -18,27 +18,16 @@
   </a>
 </p>
 
-<details>
-<summary><b>🔍 Detailed Breakdown of Technologies</b></summary>
-
-- **Languages:** C, C++, C#, Python, Java, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, Next.js, Tailwind CSS, EJS, PyTorch, OpenCV
-- **Databases, Cloud & APIs:** MySQL, MongoDB, PostgreSQL, Firebase, Oracle Cloud, Gemini API, OpenRouter
-- **Developer Tools:** Git, GitHub, Docker, Vite, Vercel, Render, GitHub CodeSpaces
-- **Areas of Interest:** Data Structures & Algorithms, Competitive Programming, Web Development, Machine Learning
-</details>
-
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Garvit711&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit711&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=Garvit711&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Garvit711&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garvit711&theme=tokyonight&hide_border=true" />
 </p>
----
 
