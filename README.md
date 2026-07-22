@@ -24,7 +24,7 @@
 
 <!-- SICK TECH/FLOW ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyber Tech Flow" width="600" style="border-radius: 10px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpxMHVscnk2czlyMWo3amQwNXdwd2V5b2RlcHk1NThwZDNkMDd4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" alt="Cyber Tech Flow" width="600" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
