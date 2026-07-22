@@ -22,9 +22,9 @@
 
 ### 📊 GitHub Stats & Activity
 
+<!-- SICK TECH/FLOW ANIMATION -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Garvit711&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit711&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyber Tech Flow" width="600" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
