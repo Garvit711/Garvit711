@@ -12,7 +12,7 @@
 
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td width="55%" valign="top">
       <h2>🧑‍💻 About Me</h2>
@@ -42,4 +42,4 @@
 
 <p align="center">
   <img src="./assets/thanks.png" alt="Thanks for visiting" width="120" />
-</p>
+</p> -->
